@@ -37,6 +37,19 @@ shall be submitted as a part of first monitoring and verification.
 Since the project activity will generate electricity through hydro energy, a clean renewable energy 
 source it will not cause any negative impact on the environment and thereby contributes to climate 
 change mitigation efforts. 
+
+________
+PRIOR HISTORY
+____________
+The project activity HAD applied for the registration in UNFCCC CDM with Project ID: 1201, titled “10 MW 
+Somasila Hydro Power Project for a grid system by Balaji Energy Pvt.Ltd.”. The latest update can be 
+found on the below mentioned link. 
+
+https://cdm.unfccc.int/Projects/DB/DNV-CUK1182338073.37/view 
+
+No credits were issued as the project was rejected by the CDM authorities. Reason for which is 
+explained on the above given link. So, the first monitoring period in case of UCR IS 01/01/2014. 
+Hence project will not cause double accounting of carbon credits (i.e., COUs).
 _______________
 MP-01 PERIOD: 2014-2021
 
